@@ -1,4 +1,20 @@
-### Oi, eu sou a Stella 👋
+### Oi, eu sou a Stella 🙋🏽
+
+👩🏽‍💻 Desenvolvedora Júnior focada em Front End <br>
+🖥️ Estudo programação desde novembro de 2021
+
+
+<a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/stella-zen-690569197/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href="[https://www.instagram.com/stella.mzen/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br><br>
+📖 Atualmente aprofundando os estudos em JavaScript e React <br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" />
+          
+          
+          
+          
+          
 
 <!--
 **Stellazen/Stellazen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
