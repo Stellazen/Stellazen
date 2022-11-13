@@ -19,6 +19,7 @@
 <a href="https://stellazen.github.io/site-meninoFolha/">🔹 MeninoFolhaStore</a> *em desenvolvimento*<br>
 ##### HTML5 | CSS3 | JavaScript
 <a href="https://stellazen.github.io/projetos-e-desafios/interactive-rating/index.html">🔹 Interactive Rating</a><br>
+<a href="https://stellazen.github.io/projetos-e-desafios/article-preview-component/index.html">🔹 Article Preview Component</a> *em desenvolvimento*<br>
 
 
 
