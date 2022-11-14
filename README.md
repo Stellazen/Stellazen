@@ -16,7 +16,6 @@
 <a href="https://stellazen.github.io/projetos-e-desafios/product-preview-card/index.html#">🔹 Product Preview Card</a><br>
 <a href="https://stellazen.github.io/projetos-e-desafios/column-card/index.html">🔹 Column Card</a><br>
 <a href="https://stellazen.github.io/projeto-login/">🔹 Projeto Login</a><br>
-<a href="https://stellazen.github.io/projetos/Academia/index.html">🔹 Academia - Alura</a><br>
 <a href="https://stellazen.github.io/site-meninoFolha/">🔹 MeninoFolhaStore</a> *em desenvolvimento*<br>
 ##### HTML5 | CSS3 | JavaScript
 <a href="https://stellazen.github.io/projetos-e-desafios/interactive-rating/index.html">🔹 Interactive Rating</a><br>
