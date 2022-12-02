@@ -10,8 +10,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" /><br>
-#### Pequenos projetos: 
-##### HTML5 | CSS3
+#### Portfólio: <a href="https://stellazen.github.io/stellaportfolio/"> Clica aqui 💫 </a>
+
+
+
+
+<!--##### HTML5 | CSS3
 <a href="https://stellazen.github.io/projetos-e-desafios/nft-card-2/index.html">🔹 NFT Card Component</a><br>
 <a href="https://stellazen.github.io/projetos-e-desafios/product-preview-card/index.html#">🔹 Product Preview Card</a><br>
 <a href="https://stellazen.github.io/projetos-e-desafios/column-card/index.html">🔹 Column Card</a><br>
@@ -23,14 +27,6 @@
 
 
 
-
-          
-          
-          
-          
-          
-
-<!--
 **Stellazen/Stellazen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
