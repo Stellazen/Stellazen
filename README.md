@@ -10,12 +10,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" /><br>
-#### Portfólio: <a href="https://stellazen.github.io/stellaportfolio/"> Clica aqui 💫 </a>
+<!--#### Portfólio: <a href="https://stellazen.github.io/stellaportfolio/"> Clica aqui 💫 </a>
 
 
 
 
-<!--##### HTML5 | CSS3
+##### HTML5 | CSS3
 <a href="https://stellazen.github.io/projetos-e-desafios/nft-card-2/index.html">🔹 NFT Card Component</a><br>
 <a href="https://stellazen.github.io/projetos-e-desafios/product-preview-card/index.html#">🔹 Product Preview Card</a><br>
 <a href="https://stellazen.github.io/projetos-e-desafios/column-card/index.html">🔹 Column Card</a><br>
