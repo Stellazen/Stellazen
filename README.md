@@ -1,16 +1,19 @@
 ### Oi, eu sou a Stella 🙋🏽
 
-👩🏽‍💻 Desenvolvedora Júnior focada em Front End <br>
+👩🏽‍💻 Desenvolvedora Júnior <br>
 🖥️ Estudo programação desde novembro de 2021
 
 
 <a href="https://www.linkedin.com/in/stella-zen-690569197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href="https://www.instagram.com/stella.mzen/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br><br>
-📖 Atualmente aprofundando os estudos em React e Vue <br><br>
+📖 Atualmente aprofundando os estudos em Frameworks como React e Vue e NodeJs <br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"  width="50px" /><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"  width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" /><br>
+          
+          
           
 <!--#### Portfólio: <a href="https://stellazen.github.io/stellaportfolio/"> Clica aqui 💫 </a>
 
