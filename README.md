@@ -1,7 +1,7 @@
 ### Oi, eu sou a Stella 🙋🏽
 
 👩🏽‍💻 Desenvolvedora Júnior <br>
-🖥️ Estudo programação desde novembro de 2021
+🖥️ Aprendendo cada vez mais e me dedicando ao mundo do Desenvolvimento Web
 
 
 <a href="https://www.linkedin.com/in/stella-zen-690569197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href="https://www.instagram.com/stella.mzen/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br><br>
