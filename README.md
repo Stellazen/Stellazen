@@ -1,6 +1,6 @@
 ### Oi, eu sou a Stella 🙋🏽
 
-👩🏽‍💻 Desenvolvedora Júnior <br>
+👩🏽‍💻 Desenvolvedora Web <br>
 🖥️ Aprendendo cada vez mais e me dedicando ao mundo do Desenvolvimento Web
 
 
