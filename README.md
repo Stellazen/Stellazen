@@ -1,10 +1,14 @@
-### Oi, eu sou a Stella 🙋🏽
-
-👩🏽‍💻 Desenvolvedora Web <br>
 
 
-<a href="https://www.linkedin.com/in/stella-zen-690569197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br><br>
-📖 Atualmente aprofundando os estudos em NodeJs e em Frameworks como React e Vue <br><br>
+          
+          
+          
+<!--#### Portfólio: <a href="https://stellazen.github.io/stellaportfolio/"> Clica aqui 💫 </a> -->
+# Olá! Eu sou a Stella 👋
+
+Sou Desenvolvedora Web, apaixonada por tecnologia e pelo desenvolvimento de soluções digitais.
+
+Atualmente curso Análise e Desenvolvimento de Sistemas e trabalho com desenvolvimento de recursos educacionais digitais, utilizando principalmente JavaScript, HTML e CSS.<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" />
@@ -12,36 +16,49 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"  width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px" /> <br>
-          
-          
-          
-<!--#### Portfólio: <a href="https://stellazen.github.io/stellaportfolio/"> Clica aqui 💫 </a>
 
+## 💻 Minha Stack
 
+### Front-end
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Next.js
+- Sass/SCSS
 
+### Back-end & Dados
+- Node.js
+- APIs REST
+- SQL
+- Google Apps Script
+- Google APIs
 
-##### HTML5 | CSS3
-<a href="https://stellazen.github.io/projetos-e-desafios/nft-card-2/index.html">🔹 NFT Card Component</a><br>
-<a href="https://stellazen.github.io/projetos-e-desafios/product-preview-card/index.html#">🔹 Product Preview Card</a><br>
-<a href="https://stellazen.github.io/projetos-e-desafios/column-card/index.html">🔹 Column Card</a><br>
-<a href="https://stellazen.github.io/projeto-login/">🔹 Projeto Login</a><br>
-<a href="https://stellazen.github.io/site-meninoFolha/">🔹 MeninoFolhaStore</a> *em desenvolvimento*<br>
-##### HTML5 | CSS3 | JavaScript
-<a href="https://stellazen.github.io/projetos-e-desafios/interactive-rating/index.html">🔹 Interactive Rating</a><br>
-<a href="https://stellazen.github.io/projetos-e-desafios/article-preview-component/index.html">🔹 Article Preview Component</a> *em desenvolvimento*<br>
+### Ferramentas
+- Git & GitHub
+- Figma
+- WordPress
 
+### Testes
+- Jest
+- Cypress
 
+## 🚀 Interesses de Desenvolvimento
 
-**Stellazen/Stellazen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho interesse em continuar evoluindo como desenvolvedora, aprofundando meus conhecimentos em:
 
-Here are some ideas to get you started:
+- Desenvolvimento de software
+- JavaScript e Node.js
+- Desenvolvimento Back-end
+- APIs REST
+- Banco de dados
+- Testes automatizados
+- Boas práticas e qualidade de código
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Atualmente
+
+Estou sempre buscando aprender novas tecnologias, desenvolver projetos e aprimorar minhas habilidades técnicas e de trabalho em equipe.
+
+## 📫 Vamos conversar?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/stellazen-dev/)
